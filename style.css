@@ -19,6 +19,7 @@ a {
 a:hover {
     text-decoration: underline;
     font-size: 1.3em;
+    cursor: pointer;
 }
 button {
     color: aliceblue;
@@ -32,5 +33,5 @@ button:hover {
     font-size: 1.3em;
     color: rgb(241, 245, 248);
     background-color: rgb(211, 45, 45);
-
+    cursor: pointer;
 }
